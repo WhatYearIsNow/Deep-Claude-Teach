@@ -1,0 +1,66 @@
+# === 个人信息 & 密钥 ===
+vision.js
+.claudian/
+教学日记.md
+教学日记/
+
+# === 原始文件（含个性化数据，上传用 .example.md 通用版）===
+CLAUDE.md
+数学/系统课程/.claude-workflow.md
+物理/系统课程/.claude-workflow.md
+.claude/shared/workflow.md
+.claude/L2-实现大纲.md
+.claude/setup-dct.md
+.claude/context/
+
+# === 含硬编码路径/学生名的脚本 & 触发器 ===
+.claude/scripts/
+.claude/quickadd/
+
+# === 含学生引用的文档 ===
+.claude/SKILL-调用指南.md
+
+# === 学生专属目录 ===
+物理-郭同学（stop）/
+物理-新同学（stop）/
+数学-崔同学/
+数学-沈同学/
+数学-付同学/
+
+# === 系统课程内容（只保留 .example.md 模板）===
+数学/系统课程/**
+!数学/系统课程/.claude-workflow.example.md
+物理/系统课程/**
+!物理/系统课程/.claude-workflow.example.md
+
+# === Obsidian 本地配置 ===
+.obsidian/
+attachment/
+
+# === 临时/草稿文件 ===
+未命名.md
+未命名 1.md
+0716.md
+Pasted image *.png
+
+# === 版权教材 & 大文件 PDF ===
+数学/高中教材/
+数学/参考教辅/
+数学/高考试卷/
+物理/高中教材/
+数学/高中错题本.pdf
+
+# === 临时文件 ===
+.claude/tmp_*.png
+.claude/tmp_*.txt
+.claude/tmp_slides/
+.claude/tessdata/
+.claude/scripts/log.txt
+.claude/context/
+
+# === 系统文件 ===
+启动Claude通知.bat
+Desktop.ini
+.WeDrive
+_test.txt
+CLAUDE.md
