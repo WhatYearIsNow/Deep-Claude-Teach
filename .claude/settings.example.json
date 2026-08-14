@@ -1,11 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Read(D:\Documents\家教/**)",
-      "Write(D:\Documents\家教/**)",
-      "Edit(D:\Documents\家教/**)",
-      "Glob(D:\Documents\家教/**)",
-      "Grep(D:\Documents\家教/**)",
+      "Read({{VAULT_ROOT}}/**)",
+      "Write({{VAULT_ROOT}}/**)",
+      "Edit({{VAULT_ROOT}}/**)",
+      "Glob({{VAULT_ROOT}}/**)",
+      "Grep({{VAULT_ROOT}}/**)",
       "Bash(python:*)",
       "Bash(curl:*)",
       "Bash(ls:*)",

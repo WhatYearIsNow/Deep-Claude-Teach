@@ -3,6 +3,7 @@ vision.js
 .claudian/
 教学日记.md
 教学日记/
+.claude/settings.json
 
 # === 原始文件（含个性化数据，上传用 .example.md 通用版）===
 CLAUDE.md

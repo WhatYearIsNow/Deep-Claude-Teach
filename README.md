@@ -30,6 +30,7 @@ cd 我的家教库
 | `物理/系统课程/.claude-workflow.example.md` → 同上 | 同上 |
 | `.claude/shared/workflow.example.md` → 重命名为 `workflow.md` | 基本不用改，开箱即用 |
 | `vision.example.js` → 重命名为 `vision.js` | 填入 DashScope API Key |
+| `.claude/settings.example.json` → 重命名为 `settings.json` | 把 `{{VAULT_ROOT}}` 替换为你的 Vault 路径 |
 
 ### 第 3 步：初始化学生
 
