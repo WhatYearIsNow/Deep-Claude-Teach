@@ -10,16 +10,6 @@ CLAUDE.md
 数学/系统课程/.claude-workflow.md
 物理/系统课程/.claude-workflow.md
 .claude/shared/workflow.md
-.claude/L2-实现大纲.md
-.claude/setup-dct.md
-.claude/context/
-
-# === 含硬编码路径/学生名的脚本 & 触发器 ===
-.claude/scripts/
-.claude/quickadd/
-
-# === 含学生引用的文档 ===
-.claude/SKILL-调用指南.md
 
 # === 学生专属目录 ===
 物理-郭同学（stop）/
@@ -57,10 +47,12 @@ Pasted image *.png
 .claude/tmp_slides/
 .claude/tessdata/
 .claude/scripts/log.txt
-.claude/context/
 
 # === 系统文件 ===
 启动Claude通知.bat
+Desktop.ini
+.WeDrive
+_test.txt
 Desktop.ini
 .WeDrive
 _test.txt
